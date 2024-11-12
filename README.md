@@ -4,7 +4,7 @@ Not caring for color support of your terminal and other error handling!
 
 Logs are stored in csv format, if you like to evaluate your time spent later. You fire up the script for each pomodoro session, consider taking breaks in between.
 
-Useage:
+## Usage:
 ```
 pip3 install -r requirements.txt
 
